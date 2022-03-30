@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1816500b-a90a-0efb-fa34-70eb309e5655
 resourcetype: Image
 title: kdv3.gif
 uid: 95be195d-eac3-5ed5-948d-18cd0556ed5d
